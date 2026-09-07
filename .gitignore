@@ -81,6 +81,7 @@ dist/
 *.seed
 *.pid.lock
 
++
 # OS
 Thumbs.db
 .DS_Store
