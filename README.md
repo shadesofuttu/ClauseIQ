@@ -181,5 +181,5 @@ For questions or discussions, open an issue or reach out to the maintainers.
 
 **Maintainer:** Engineering Team  
 **Project Start:** July 2024  
-**Status:** Active Development
-and more
+**Status:** not yet deployed
+
